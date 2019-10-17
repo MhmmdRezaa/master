@@ -1,0 +1,7 @@
+<?php
+echo 'nama aing M.Reza Nur Aditya';
+echo '<br>';
+echo 'kelas aing X RPL 2';
+echo '<br>';
+echo 'no.absen aing 22';
+>?php
